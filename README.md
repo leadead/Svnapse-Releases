@@ -16,8 +16,8 @@
 
 系统要求：macOS 27 及以上，Apple Silicon。
 
-1. 下载 [Svnapse.zip](https://github.com/leadead/Svnapse-Releases/releases/latest/download/Svnapse.zip)（[所有版本](https://github.com/leadead/Svnapse-Releases/releases)）
-2. 解压后把 Svnapse 拖入「应用程序」
+1. 下载 [Svnapse.dmg](https://github.com/leadead/Svnapse-Releases/releases/latest/download/Svnapse.dmg)（[所有版本](https://github.com/leadead/Svnapse-Releases/releases)）
+2. 打开后把 Svnapse 拖到「应用程序」，从「应用程序」打开
 
 安装包已通过 Apple 公证。
 
